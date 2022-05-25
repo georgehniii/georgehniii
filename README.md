@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @georgehniii
 - 👀 I’m interested in automation and robotics.
-- 🌱 I’m currently learning .NET.
+- 🌱 I’m currently learning javascript, and .NET.
 - 💞️ I’m looking to collaborate on almost anything.
 - 📫 How to reach me georgehniii@gmail.com
 
